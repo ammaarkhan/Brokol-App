@@ -11,7 +11,7 @@ class FirstViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "first screen"
+        title = ""
         // Do any additional setup after loading the view.
     }
     

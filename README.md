@@ -24,7 +24,7 @@ The team aims to take this project to the market. By analyzing the problem and p
 ## Inspiration and Resources Used
 https://www.youtube.com/watch?v=BYs5IrOxwLc&list=PLRrpHEFUR-f0wqvCtyp1Ql8FQQwfHTriu
 https://www.youtube.com/watch?v=XYSZEBPGTqk&list=PLoN_ejT35AEjmnHkeJ_FGrb4ysVzs6o4X
-https://github.com/clive819/Split-the-Bill
+https://github.com/clive819/Split-the-Bill  
 https://developer.apple.com/documentation/vision
 https://developer.apple.com/documentation/vision/structuring_recognized_text_on_a_document
 https://github.com/kiritmodi2702/GIF-Swift/blob/master/GIF-Swift/iOSDevCenters%2BGIF.swift
